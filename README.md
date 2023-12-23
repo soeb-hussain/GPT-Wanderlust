@@ -1,12 +1,10 @@
-## Project for CSYE 7380: Build a chatbot powered by chatgpt to assist customers in travel booking
-
-#  Objective of the project to to build a chatbot name WanderLust
 
 
-#  Wanderlust will be having access to a database which contains information about:
+##  Wanderlust will be having access to a database which contains information about:
     * distance between two cities 
-    * possbile 
-
+    * possbile tourist places, packages and other company specific offerings 
+## Demo video
+[![IMAGE ALT TEXT HERE](https://github.com/soeb-hussain/GPT-Wanderlust/blob/main/media/tb.png)](https://github.com/soeb-hussain/GPT-Wanderlust/blob/main/media/demo%20video.mov)
 ### 
 About the `TravelPlannerDB` DB: 
 
