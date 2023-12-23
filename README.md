@@ -4,6 +4,7 @@
     * distance between two cities 
     * possbile tourist places, packages and other company specific offerings 
 ## Demo video
+![Alt Text](https://github.com/soeb-hussain/GPT-Wanderlust/blob/main/media/demo.gif)
 [![IMAGE ALT TEXT HERE](https://github.com/soeb-hussain/GPT-Wanderlust/blob/main/media/tb.png)](https://github.com/soeb-hussain/GPT-Wanderlust/blob/main/media/demo%20video.mov)
 ### 
 About the `TravelPlannerDB` DB: 
