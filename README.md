@@ -48,8 +48,8 @@ References
 * https://platform.openai.com/examples/default-sql-translate (query to sql)
 * https://platform.openai.com/docs/assistants/overview (chatbot)
 * https://www.youtube.com/watch?v=ZIvcVJGtCrY&t=13s (yt, llama for query to sql)
-* http://webcache.googleusercontent.com/search?q=cache:https://medium.com/singapore-gds/integrating-chatgpt-with-internal-knowledge-base-and-question-answer-platform-36a3283d6334&sca_esv=583557295&strip=1&vwsrc=0
-* http://webcache.googleusercontent.com/search?q=cache:https://betterprogramming.pub/how-to-build-your-own-custom-chatgpt-with-custom-knowledge-base-4e61ad82427e&sca_esv=583544219&strip=1&vwsrc=0
+* https://medium.com/singapore-gds/integrating-chatgpt-with-internal-knowledge-base-and-question-answer-platform-36a3283d6334&sca_esv=583557295&strip=1&vwsrc=0
+* https://betterprogramming.pub/how-to-build-your-own-custom-chatgpt-with-custom-knowledge-base-4e61ad82427e&sca_esv=583544219&strip=1&vwsrc=0
 * https://cookbook.openai.com/examples/how_to_call_functions_with_chat_models --> SQL queries
 
 
