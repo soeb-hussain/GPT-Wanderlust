@@ -1,7 +1,7 @@
 ## Wanderlust
-### dynamic AI chatbot that smartly navigates user queries, tapping into GPT's extensive knowledge base for general travel information or querying a proprietary database for detailed travel package data
+### Dynamic AI chatbot that smartly navigates user queries, tapping into GPT's extensive knowledge base for general travel information or querying a proprietary database for detailed travel package data
 
-##  Wanderlust will be having access to a database which contains information about:
+##  Wanderlust have access to org database that contains specific travel details like :
     * distance between two cities 
     * possbile tourist places, packages and other company specific offerings 
 
